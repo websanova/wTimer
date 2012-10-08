@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	
+	<title>Websanova Timer</title>
+	
+	<script type="text/javascript" src="./wTimer.js"></script>
+	
+</head>
+<body>
+
+	<h1>Websanova Timer</h1>
+	
+	<input type="button" value="Start" onclick="timer.start();"/>
+	<input type="button" value="Stop" onclick="timer.stop();"/>
+
+	<div id="wTimer"></div>
+
+	<script type="text/javascript">
+		var timer = new wTimer({
+			fps:1,
+			run: function()
+			{
+				document.getElementById('wTimer').innerHTML += '<div>timer</div>';
+			}
+		});
+	</script>
+	
+</body>
+</html>
