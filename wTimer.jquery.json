@@ -1,0 +1,37 @@
+{
+  "name": "wTimer",
+  "title": "wTimer jQuery Plugin",
+  "description": "A jQuery timer plugin",
+  "keywords": [
+    "websanova",
+    "wTimer",
+    "timer",
+    "time"
+  ],
+  "version": "v1.0.1",
+  "author": {
+    "name": "Websanova",
+    "email": "rob@websanova.com",
+    "url": "http://websanova.com"
+  },
+  "maintainers": [
+    {
+      "name": "Websanova",
+      "email": "rob@websanova.com",
+      "url": "http://websanova.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/websanova/wTimer#license"
+    }
+  ],
+  "bugs": "https://github.com/websanova/wTimer/issues",
+  "homepage": "http://websanova.com/plugins/timer",
+  "docs": "https://github.com/websanova/wTimer#wtimerjs",
+  "download": "https://github.com/websanova/wTimer/tags",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}

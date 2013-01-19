@@ -8,7 +8,7 @@
  * @license         This websanova jQuery timer is dual licensed under the MIT and GPL licenses.
  * @link            http://www.websanova.com
  * @github          http://github.com/websanova/wTimer
- * @version			1.0.0
+ * @version			1.0.1
  *
  ******************************************/
 
