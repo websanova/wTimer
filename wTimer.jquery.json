@@ -1,14 +1,14 @@
 {
   "name": "wTimer",
   "title": "wTimer jQuery Plugin",
-  "description": "A jQuery timer plugin",
+  "description": "A jQuery timer plugin by Websanova",
   "keywords": [
     "websanova",
     "wTimer",
     "timer",
     "time"
   ],
-  "version": "v1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Websanova",
     "email": "rob@websanova.com",
